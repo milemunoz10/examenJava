@@ -1,0 +1,7 @@
+package examen;
+
+interface CuepoDomestico {
+
+
+}
+
